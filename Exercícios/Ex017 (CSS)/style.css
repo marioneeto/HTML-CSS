@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    font: normal 16px arial, verdana, serif;
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+#x{
+    background-color: blue;
+    color: yellow;
+    text-align: right;
+    font-size: 3em;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
+#a::first-letter{
+    font-size: 40px;
+}
